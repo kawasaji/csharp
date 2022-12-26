@@ -44,22 +44,22 @@
 
 
 // Array
-int[] arr  = new int[10];
+//int[] arr  = new int[10];
 
-Console.WriteLine(arr.GetType()); // Получить тип данных (присутсвуется во всех типах данных)
+//Console.WriteLine(arr.GetType()); // Получить тип данных (присутсвуется во всех типах данных)
 
-arr[0] = 1;
+//arr[0] = 1;
 
-for (int i = 0; i < arr.Length; i++)
-{
-    Console.WriteLine(arr[i]);
-}
+//for (int i = 0; i < arr.Length; i++)
+//{
+//    Console.WriteLine(arr[i]);
+//}
 
-// Jagged array
-int[][] arr_a = new int[2][]
-{
-    new int []{1, 2, 3, 4, 5, 6},
-    new int[]{7, 8 ,9}
-};
+//// Jagged array
+//int[][] arr_a = new int[2][]
+//{
+//    new int []{1, 2, 3, 4, 5, 6},
+//    new int[]{7, 8 ,9}
+//};
 
-int[,]
+//int[,]
