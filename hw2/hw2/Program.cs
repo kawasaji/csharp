@@ -125,17 +125,17 @@
 
 // ex 3
 
-Console.Write("write text ~# ");
-string name = Console.ReadLine();
+//Console.Write("write text ~# ");
+//string name = Console.ReadLine();
 
-string newName = name;
+//string newName = name;
 
 
-Console.Write("enter rot ~# ");
-int rot = Convert.ToInt32(Console.ReadLine());
+//Console.Write("enter rot ~# ");
+//int rot = Convert.ToInt32(Console.ReadLine());
 
-for (int i = 0; i < name.Length; i++)
-{
-    //new_name[i] = Convert.ToChar(name[i]);
-    newName[i] = Convert.ToInt32(name[i]) + rot;
-}
+//for (int i = 0; i < name.Length; i++)
+//{
+//    //new_name[i] = Convert.ToChar(name[i]);
+//    newName[i] = Convert.ToInt32(name[i]) + rot;
+//}
