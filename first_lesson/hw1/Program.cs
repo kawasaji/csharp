@@ -100,10 +100,12 @@
 //int tmp_num = num1;
 //for (int i = 0; i < num2 - num1; i++)
 //{
-    
+
 //    tmp_num++;
 //    if (tmp_num % 2 == 0)
 //    {
 //        Console.WriteLine(tmp_num);
 //    }
 //}
+
+int a = 0;
