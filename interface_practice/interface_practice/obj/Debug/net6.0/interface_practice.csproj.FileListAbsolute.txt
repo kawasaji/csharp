@@ -1,0 +1,15 @@
+C:\Users\cjohs\Documents\csharp\interface_practice\interface_practice\bin\Debug\net6.0\interface_practice.exe
+C:\Users\cjohs\Documents\csharp\interface_practice\interface_practice\bin\Debug\net6.0\interface_practice.deps.json
+C:\Users\cjohs\Documents\csharp\interface_practice\interface_practice\bin\Debug\net6.0\interface_practice.runtimeconfig.json
+C:\Users\cjohs\Documents\csharp\interface_practice\interface_practice\bin\Debug\net6.0\interface_practice.dll
+C:\Users\cjohs\Documents\csharp\interface_practice\interface_practice\bin\Debug\net6.0\interface_practice.pdb
+C:\Users\cjohs\Documents\csharp\interface_practice\interface_practice\obj\Debug\net6.0\interface_practice.csproj.AssemblyReference.cache
+C:\Users\cjohs\Documents\csharp\interface_practice\interface_practice\obj\Debug\net6.0\interface_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjohs\Documents\csharp\interface_practice\interface_practice\obj\Debug\net6.0\interface_practice.AssemblyInfoInputs.cache
+C:\Users\cjohs\Documents\csharp\interface_practice\interface_practice\obj\Debug\net6.0\interface_practice.AssemblyInfo.cs
+C:\Users\cjohs\Documents\csharp\interface_practice\interface_practice\obj\Debug\net6.0\interface_practice.csproj.CoreCompileInputs.cache
+C:\Users\cjohs\Documents\csharp\interface_practice\interface_practice\obj\Debug\net6.0\interface_practice.dll
+C:\Users\cjohs\Documents\csharp\interface_practice\interface_practice\obj\Debug\net6.0\refint\interface_practice.dll
+C:\Users\cjohs\Documents\csharp\interface_practice\interface_practice\obj\Debug\net6.0\interface_practice.pdb
+C:\Users\cjohs\Documents\csharp\interface_practice\interface_practice\obj\Debug\net6.0\interface_practice.genruntimeconfig.cache
+C:\Users\cjohs\Documents\csharp\interface_practice\interface_practice\obj\Debug\net6.0\ref\interface_practice.dll
